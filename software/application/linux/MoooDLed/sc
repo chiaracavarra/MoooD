@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for i in {0..35}
+	do
+		hue=$((i*10))
+		echo `printf "H_%03d(Color.GRAY, 0, %3d)," $hue $((hue+10))`
+	done
+

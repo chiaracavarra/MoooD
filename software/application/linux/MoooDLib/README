@@ -1,0 +1,30 @@
+This directory/project contains the Linux specific code for dealing with the power management stuff,
+mostly signaling and inhibition for standby/resume operations.
+
+On any modern Linux Desktop setup a userspace daemon takes care of notifying any state change and
+accounting for applications that need to deal with some duties before letting the system go. It is
+called systemd-login and is part of the systemd project, which is quickly getting the rule on any
+Linux system, replacing init, sysV and upstart. It is possible to interact with the daemon by means
+of either DBus or a library, called libsystemd-login (currently support for inhibit seems to be
+lacking).
+See also: http://www.freedesktop.org/wiki/Software/systemd/inhibit/
+
+Currently it is also possible to retrieve more power related informations from sysfs or querying
+another daemon (upowerd), likewise commonly widespread on Desktops, via DBus.
+See also: http://upower.freedesktop.org/docs/
+
+Being a broader and a more flexible/extensible solution, DBus has been selected for operating with
+these daemons (currently only systemd-login is mandatory and used). The downside of this approach is
+the increased complexity. A libsystemd-login based implementation may come at a later point in time.
+This code rely upon the glib/gio implementation (currently using only the low level DBus API) but
+other implementations are available. These libraries provide both the IO and a DBus compliant
+implementation, but also a well crafted main loop and an integrated signaling system. Higher level
+API can be used in case of more complex remote DBus interfaces, though currently are not necessary.
+
+See also the old libdbus based implementation in dbus-old.
+
+
+References:
+http://dbus.freedesktop.org/doc/dbus-specification.html
+https://developer.gnome.org/gio/2.41/gdbus-lowlevel.html
+https://developer.gnome.org/gio/2.41/gdbus-convenience.html

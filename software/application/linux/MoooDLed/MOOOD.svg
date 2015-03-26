@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   enable-background="new"
+   sodipodi:docname="MOOOD.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3917">
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="0"
+         id="stop3919" />
+      <stop
+         style="stop-color:#69ff69;stop-opacity:1;"
+         offset="1"
+         id="stop3921" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3909">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop3911" />
+      <stop
+         style="stop-color:#6969ff;stop-opacity:1;"
+         offset="1"
+         id="stop3913" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3899">
+      <stop
+         style="stop-color:#ff6969;stop-opacity:1;"
+         offset="0"
+         id="stop3901" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop3903" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3889">
+      <stop
+         style="stop-color:#bc8c17;stop-opacity:1;"
+         offset="0"
+         id="stop3891" />
+      <stop
+         style="stop-color:#fff581;stop-opacity:1;"
+         offset="1"
+         id="stop3893" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter3885">
+      <feBlend
+         inkscape:collect="always"
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend3887" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3889">
+      <feBlend
+         inkscape:collect="always"
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend3891" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3893">
+      <feBlend
+         inkscape:collect="always"
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend3895" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3889"
+       id="linearGradient3895"
+       x1="497.43484"
+       y1="517.54303"
+       x2="588.64093"
+       y2="607.05914"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3899"
+       id="linearGradient3907"
+       x1="246.70547"
+       y1="713.68323"
+       x2="249.25745"
+       y2="497.93777"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3909"
+       id="linearGradient3915"
+       x1="146.28732"
+       y1="591.46295"
+       x2="350.78308"
+       y2="602.94098"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3917"
+       id="linearGradient3923"
+       x1="357.76263"
+       y1="610.91644"
+       x2="121.9643"
+       y2="609.21448"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.24"
+     inkscape:cx="488.60713"
+     inkscape:cy="565.73073"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="g"
+     style="display:inline;filter:url(#filter3885)">
+    <path
+       transform="matrix(-0.59669208,0,0,-0.47382703,488.88413,662.77909)"
+       d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+       sodipodi:ry="109.77012"
+       sodipodi:rx="112.06896"
+       sodipodi:cy="605.81049"
+       sodipodi:cx="250"
+       id="path3937"
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:13.16477013000000085;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter3893)"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+       inkscape:export-xdpi="10.2"
+       inkscape:export-ydpi="10.2" />
+    <path
+       inkscape:export-ydpi="10.2"
+       inkscape:export-xdpi="10.2"
+       inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient3923);fill-opacity:1;stroke:#000000;stroke-width:13.16477013000000085;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter3893)"
+       id="path3832"
+       sodipodi:cx="250"
+       sodipodi:cy="605.81049"
+       sodipodi:rx="112.06896"
+       sodipodi:ry="109.77012"
+       d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+       transform="matrix(-0.59669208,0,0,-0.47382703,393.72284,914.39199)" />
+  </g>
+  <g
+     inkscape:label="r"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;filter:url(#filter3889)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="b"
+     style="display:inline;filter:url(#filter3893)">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:12.58338260999999925;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3875"
+       sodipodi:cx="250"
+       sodipodi:cy="605.81049"
+       sodipodi:rx="112.06896"
+       sodipodi:ry="109.77012"
+       d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+       transform="matrix(-0.55055498,0,0,-0.56208368,419.54974,705.44572)"
+       inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+       inkscape:export-xdpi="10.2"
+       inkscape:export-ydpi="10.2" />
+    <path
+       transform="matrix(-0.59928137,0,0,-0.80740303,473.42801,855.06335)"
+       d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+       sodipodi:ry="109.77012"
+       sodipodi:rx="112.06896"
+       sodipodi:cy="605.81049"
+       sodipodi:cx="250"
+       id="path3873"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:10.06323528000000067;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter3885)"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+       inkscape:export-xdpi="10.2"
+       inkscape:export-ydpi="10.2" />
+    <path
+       inkscape:export-ydpi="10.2"
+       inkscape:export-xdpi="10.2"
+       inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+       transform="matrix(-0.55055498,0,0,-0.56208368,419.54974,705.44572)"
+       d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+       sodipodi:ry="109.77012"
+       sodipodi:rx="112.06896"
+       sodipodi:cy="605.81049"
+       sodipodi:cx="250"
+       id="path2999"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:12.58338260999999925;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="10.2"
+       inkscape:export-xdpi="10.2"
+       inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:10.06323528000000067;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter3885)"
+       id="path3001"
+       sodipodi:cx="250"
+       sodipodi:cy="605.81049"
+       sodipodi:rx="112.06896"
+       sodipodi:ry="109.77012"
+       d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+       transform="matrix(-0.59928137,0,0,-0.80740303,473.42801,855.06335)" />
+    <path
+       inkscape:export-ydpi="10.2"
+       inkscape:export-xdpi="10.2"
+       inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+       transform="matrix(-0.55055498,0,0,-0.56208368,324.38845,957.05862)"
+       d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+       sodipodi:ry="109.77012"
+       sodipodi:rx="112.06896"
+       sodipodi:cy="605.81049"
+       sodipodi:cx="250"
+       id="path3834"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:12.58338260999999925;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="10.2"
+       inkscape:export-xdpi="10.2"
+       inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:10.06323528000000067;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter3885)"
+       id="path3836"
+       sodipodi:cx="250"
+       sodipodi:cy="605.81049"
+       sodipodi:rx="112.06896"
+       sodipodi:ry="109.77012"
+       d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+       transform="matrix(-0.59928137,0,0,-0.80740303,378.26672,1106.6763)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient3915);fill-opacity:1;stroke:#000000;stroke-width:12.58338260999999925;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3838"
+       sodipodi:cx="250"
+       sodipodi:cy="605.81049"
+       sodipodi:rx="112.06896"
+       sodipodi:ry="109.77012"
+       d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+       transform="matrix(-0.55055498,0,0,-0.56208368,324.38845,957.05862)"
+       inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+       inkscape:export-xdpi="10.2"
+       inkscape:export-ydpi="10.2" />
+    <path
+       transform="matrix(-0.59928137,0,0,-0.80740303,378.26672,1106.6763)"
+       d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+       sodipodi:ry="109.77012"
+       sodipodi:rx="112.06896"
+       sodipodi:cy="605.81049"
+       sodipodi:cx="250"
+       id="path3840"
+       style="fill:url(#linearGradient3907);fill-opacity:1;stroke:#000000;stroke-width:10.06323528000000067;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter3885)"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+       inkscape:export-xdpi="10.2"
+       inkscape:export-ydpi="10.2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="letters"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter3885);opacity:1"
+       d="m 90.957447,405.55367 21.526593,-92.02127 33.5266,84.02127 33.52659,-84.02127 21.5266,92.02127"
+       id="path3968"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter3885)"
+       d="m 428.19147,404.93618 15.36808,0 c 68.5614,-0.62033 72.37435,-99.5611 0,-99.8069 l -15.36808,0 z"
+       id="path3970"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter3885);font-family:Sans"
+       x="84.648567"
+       y="445.5914"
+       id="text3995"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3997"
+         x="84.648567"
+         y="445.5914">beh, siamo al (desk)top!</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="gold">
+    <rect
+       style="fill:#005500;fill-opacity:1;stroke:none;stroke-width:7;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3790"
+       width="351.61292"
+       height="262.09677"
+       x="382.25806"
+       y="461.23315" />
+    <g
+       id="g3882"
+       style="fill-opacity:1;fill:url(#linearGradient3895)">
+      <path
+         transform="matrix(-0.59669208,0,0,-0.47382703,731.62607,878.10167)"
+         d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+         sodipodi:ry="109.77012"
+         sodipodi:rx="112.06896"
+         sodipodi:cy="605.81049"
+         sodipodi:cx="250"
+         id="path3002"
+         style="display:inline;filter:url(#filter3893);fill:url(#linearGradient3895);fill-opacity:1.0;stroke:#ffffff;stroke-width:13.16477013000000085;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+         inkscape:export-xdpi="10.2"
+         inkscape:export-ydpi="10.2" />
+      <path
+         sodipodi:type="arc"
+         style="display:inline;filter:url(#filter3893);fill:url(#linearGradient3895);fill-opacity:1.0;stroke:#ffffff;stroke-width:12.58338260999999925;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3004"
+         sodipodi:cx="250"
+         sodipodi:cy="605.81049"
+         sodipodi:rx="112.06896"
+         sodipodi:ry="109.77012"
+         d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+         transform="matrix(-0.55055498,0,0,-0.56208368,662.29168,920.7683)"
+         inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+         inkscape:export-xdpi="10.2"
+         inkscape:export-ydpi="10.2" />
+      <path
+         transform="matrix(-0.59928137,0,0,-0.80740303,716.16995,1070.3859)"
+         d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+         sodipodi:ry="109.77012"
+         sodipodi:rx="112.06896"
+         sodipodi:cy="605.81049"
+         sodipodi:cx="250"
+         id="path3006"
+         style="display:inline;filter:url(#filter3885);fill:url(#linearGradient3895);fill-opacity:1.0;stroke:#ffffff;stroke-width:10.06323528000000067;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+         inkscape:export-xdpi="10.2"
+         inkscape:export-ydpi="10.2" />
+      <path
+         inkscape:export-ydpi="10.2"
+         inkscape:export-xdpi="10.2"
+         inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+         transform="matrix(-0.55055498,0,0,-0.56208368,662.29168,920.7683)"
+         d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+         sodipodi:ry="109.77012"
+         sodipodi:rx="112.06896"
+         sodipodi:cy="605.81049"
+         sodipodi:cx="250"
+         id="path3008"
+         style="display:inline;filter:url(#filter3893);fill:url(#linearGradient3895);fill-opacity:1.0;stroke:#ffffff;stroke-width:12.58338260999999925;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="10.2"
+         inkscape:export-xdpi="10.2"
+         inkscape:export-filename="/home/marco/Eclipse/MoodLED/src/com/absence/chiara/MoodLed/pictures/icon_24.png"
+         sodipodi:type="arc"
+         style="display:inline;filter:url(#filter3885);fill:url(#linearGradient3895);fill-opacity:1.0;stroke:#ffffff;stroke-width:10.06323528000000067;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3010"
+         sodipodi:cx="250"
+         sodipodi:cy="605.81049"
+         sodipodi:rx="112.06896"
+         sodipodi:ry="109.77012"
+         d="m 362.06896,605.81049 a 112.06896,109.77012 0 1 1 -224.13792,0 112.06896,109.77012 0 1 1 224.13792,0 z"
+         transform="matrix(-0.59928137,0,0,-0.80740303,716.16995,1070.3859)" />
+    </g>
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 570.16129,539.45896 C 508.60215,553.43745 497.04301,609.35143 550,637.0396 l 0,0 c 10.75269,-1.07527 63.44086,-45.69892 20.16129,-97.58064 z"
+       id="path3897"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3925"
+       d="m 231.87097,580.58799 c -59.13979,7.52688 -65.05376,66.34408 -20.16129,87.58064 l 0,0 c 11.55914,-5.10753 54.56989,-33.27957 20.16129,-87.58064 z"
+       style="fill:#ffffff;stroke:none;fill-opacity:0.46215141" />
+  </g>
+</svg>
